@@ -1,0 +1,6 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+httpx
+pandas
+python-dotenv
+moonshot-api  # 月之暗面官方SDK (或者使用 langchain 的通用接口)
